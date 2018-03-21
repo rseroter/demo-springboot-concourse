@@ -1,0 +1,9 @@
+---
+applications:
+- name: tda-boot-webapp
+  memory: 1G
+  instances: 1
+  path: target/tda-boot-webapp-0.0.1-SNAPSHOT.jar
+  services:
+  - bootdocdb
+  - bootstorage

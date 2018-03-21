@@ -1,0 +1,6 @@
+{
+  "resourceGroup": "pcf-workshop-pcf-resource-group",
+  "docDbAccountName": "generatedbootappdocs",
+  "docDbName": "recommendations",
+  "location": "westus2"
+}

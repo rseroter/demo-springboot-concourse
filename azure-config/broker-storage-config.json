@@ -1,0 +1,6 @@
+{
+  "resourceGroup": "pcf-workshop-pcf-resource-group",
+  "storageAccountName": "generatedbootapplogs",
+  "location": "westus2",
+  "accountType": "Standard_LRS"
+}
